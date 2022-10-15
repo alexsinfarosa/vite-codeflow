@@ -23,6 +23,9 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
+
+
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum ipsam eos quibusdam, tenetur labore cupiditate repellat eius voluptatum animi at quia est recusandae veritatis minus quis nihil, earum beatae! Omnis.</p>
       </div>
     </div>
   )
